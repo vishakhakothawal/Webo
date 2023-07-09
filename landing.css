@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko&family=Merriweather:wght@300&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiko&family=Merriweather:wght@300&family=Ubuntu:wght@300&family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiko&family=Merriweather:wght@300&family=Ubuntu:wght@300&display=swap');
+
+#header{
+    background-color: black;
+    height:70px;
+    width:100%;
+    
+    
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-content: center;
+    text-decoration: none;
+}
+ .navbar ul li{
+    text-decoration: none;
+    font-size: 18px;
+    font-style: bold;
+     color:black;
+     display :inline-block;
+     padding-left:  15px;
+    padding-right: 15px;
+    padding: top 50px;
+    text-align: center;
+    margin-top: 25px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    
+
+}
+a:hover{
+    background-color: red;
+}
+#h{
+    float:left;
+    color:white;
+    font-family: 'Ubuntu';
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding-left: 0px;
+    
+
+    
+}
+.main{
+    
+    width: 100%;
+    height:600px;
+}
+#u{
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Ubuntu';
+    word-spacing: 4px;
+    
+    color: white;
+     
+}
+#pu{
+    text-align: center;
+    font-weight: 100;
+   
+    
+    
+    color: white;
+}
+
+button{
+    border:3px solid white;
+    text-align: center;
+    margin-left: 550px;
+}
+body{
+    background-color: black;
+}
+img{
+    
+    float:right;
+    margin-top: 15px;
+}
+.footer{
+    height:100px;
+    color: aliceblue;
+}
+#Abt{
+    color: white;
+}
+
+
+#h1{
+    color: white; 
+    font-family: "Verdana";
+    font-size: 20px;
+    text-align: center;
+}
+#p{
+    color: white;
+    font-family: 'Verdana';
+    
+}
+#a{
+    color: white; 
+    font-family: "Verdana";
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    margin-left: 0px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    left:0px;
+    padding-left: 0px;
+}
+
